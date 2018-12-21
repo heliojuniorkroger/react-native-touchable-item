@@ -1,0 +1,15 @@
+{
+  "name": "react-native-touchable-item",
+  "version": "1.0.1",
+  "description": "Cross-platform touchable item for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heliojuniorkroger/react-native-touchable-item.git"
+  },
+  "author": "Hélio Kroger <heliojuniorkroger@gmail.com>",
+  "license": "ISC"
+}
